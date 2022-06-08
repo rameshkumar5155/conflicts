@@ -1,0 +1,5 @@
+SSL is an abbreviation used for Secure Sockets Layers, an encryption technology that keeps sensitive data between web servers and web browsers secure and private.
+
+SSL may also be called TLS or Transport Layer Security protocol. These protocols rely on certificates that provide an assurance to the user about the identity of the website they are communicating with.
+
+Once you enable SSL, your website will use HTTPS instead of HTTP, and you will also see a padlock sign next to your website address in the browser to show that it is secure
